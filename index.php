@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to LAMP STACK</title>
+    <title>Welcome to LAMP STACK!!!</title>
 </head>
 <body>
     <?php 
